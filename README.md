@@ -1,13 +1,26 @@
-# BasicBankingSystem
+# Banking System
 
-Sparks Foundation Web Development Internship Project : Basic Banking System website.
-A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+## Project Overview 🏦
+This project was developed as part of the Sparks Foundation Web Development Internship. It is a web application that allows users to transfer virtual money between multiple accounts while maintaining a record of all banking transactions. The system is designed to be simple, secure, and efficient for tracking financial activities.
 
-## The website has the following specification -
+## Features
+- **Dummy Data Initialization**: Preloaded database with up to 10 customers.
+- **Customer Database**: Stores essential customer details such as name, email, and account balance.
+- **Transaction History**: Records all transactions to ensure transparency and accountability.
+- **Secure Money Transfer**: Users can select a customer and transfer money to another customer securely.
 
-Start with a dummy data for upto 10 customers.
-Customers table with basic fields such as name, email, current balance etc.
-Transaction status:
-Transfer table/ Transfer History which records all the transactions
+## Workflow
+1. **Home Page** ➝ Overview of the banking system.
+2. **View All Customers** ➝ Displays a list of registered customers.
+3. **Select and View Customer** ➝ View details of an individual customer.
+4. **Transfer Money** ➝ Select a recipient and enter transfer details.
+5. **Transaction History** ➝ View all previous transactions for tracking transfers.
 
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
+## Future Enhancements
+- Implementing authentication and user roles.
+- Adding email notifications for transactions.
+- Enhancing UI/UX with modern frameworks.
+
+This project showcases fundamental web development skills while offering a practical banking solution. Explore the system and experience seamless virtual transactions! 💳💼
+
+
